@@ -1,16 +1,12 @@
 # myapp
 
-A new Flutter project.
+- tabla utilizada en el ejercicio
 
-## Getting Started
+![alt text](Tabla_utilizada-1.jpeg)
 
-This project is a starting point for a Flutter application.
+- Formulario
+![alt text](image-1.png)
 
-A few resources to get you started if this is your first Flutter project:
+- Resultado de la tabla
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
